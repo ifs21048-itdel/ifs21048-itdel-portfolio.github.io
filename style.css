@@ -387,7 +387,7 @@ span {
 /*Portfolio Section*/
 
 #portfolio {
-  margin-left: 70px;
+  margin-left: 20px;
   display: grid;
   grid-template-rows: 1fr 1fr;
   grid-template-columns: 1fr 1fr 1fr;
@@ -399,14 +399,11 @@ span {
 }
 
 .portfolio-box {
-  /* width: 500px; */
   background-color: #ffffff;
-  /* border: 1px solid #ccc; */
-  margin: 20px;
+  margin: 10px;
   font-size: 20px;
   flex: 20px;
   transition: margin 0.5s;
-  /* padding: 30px; */
   border-radius: 30px;
   text-align: center;
 }
