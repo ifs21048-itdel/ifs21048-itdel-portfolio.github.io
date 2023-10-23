@@ -537,13 +537,11 @@ span {
 
 .contact-section {
   min-height: 50vh;
-  width: 1200px;
+  width: 1000px;
   background: #d7e3fc;
   border-radius: 10px;
   background-size: cover;
   display: flex;
-  /* justify-content: center;
-  align-items: center; */
   margin-top: 20px;
   margin-bottom: 30px;
   margin-left: 60px;
@@ -555,7 +553,6 @@ span {
 }
 .contact-info {
   color: #031d44;
-  /* max-width: 500px; */
   margin-left: 60px;
   line-height: 45px;
   font-size: 25px;
