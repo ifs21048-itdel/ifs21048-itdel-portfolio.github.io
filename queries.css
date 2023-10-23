@@ -1,0 +1,68 @@
+@media screen and (max-width: 1200px) {
+  .detel-img {
+    display: none;
+  }
+  .detel .social-media {
+    margin-top: 250px;
+  }
+
+  .about-container {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    /* grid-template-rows: 1fr 1fr 1fr; */
+  }
+
+  .about-right {
+    margin-left: 0;
+    width: 100%;
+    margin-top: 10px;
+  }
+
+  .about-left {
+    padding-bottom: 0;
+  }
+
+  .carousel {
+    width: 900px;
+    height: 600px;
+    padding: 60px;
+    margin: 0 auto;
+  }
+
+  #portfolio {
+    display: grid;
+    grid-template-rows: 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr;
+    width: 600px;
+    margin-left: 20px;
+  }
+
+  .portfolio-box {
+    width: 400px;
+    height: 300px;
+  }
+
+  .portfolio-box .center {
+    width: 200px;
+    height: 100px;
+  }
+
+  .contact-section {
+    width: 1100px;
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+
+  .contact-info {
+    width: 300px;
+    margin-right: 10px;
+    margin-left: 10px;
+  }
+
+  .contact-form {
+    width: 400px;
+    margin-left: 10px;
+    margin-right: 20px;
+  }
+}
