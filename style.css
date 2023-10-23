@@ -537,25 +537,26 @@ span {
 
 .contact-section {
   min-height: 50vh;
+  width: 1200px;
   background: #d7e3fc;
   border-radius: 10px;
   background-size: cover;
   display: flex;
-  justify-content: center;
-  align-items: center;
+  /* justify-content: center;
+  align-items: center; */
   margin-top: 20px;
   margin-bottom: 30px;
-  margin-left: 30px;
+  margin-left: 60px;
 }
 
 .contact-map {
-  width: 100%px;
-  height: auto;
+  margin-top: 30px;
   flex: 50%;
 }
 .contact-info {
   color: #031d44;
-  max-width: 500px;
+  /* max-width: 500px; */
+  margin-left: 60px;
   line-height: 45px;
   font-size: 25px;
 }
